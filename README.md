@@ -1,5 +1,6 @@
-# wsu-usi
-WSU - 19789590 - Advanced Topics in User System Interaction
+# Western Sydney University
+Unit: Advanced Topics in User System Interaction
+Student ID: 19789590
 
 ## Technology used
 "Just in mind"
